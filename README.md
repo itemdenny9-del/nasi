@@ -1,7 +1,7 @@
 {
   "ModsLabs_DeviceAuth": [
     {
-      "id": "34abba02344edbfd",
+      "id": "",
       "name": "NCS crot"
     },
     {
