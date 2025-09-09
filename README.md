@@ -2,7 +2,7 @@
   "ModsLabs_DeviceAuth": [
     {
       "id": "6ae7ddb908d79e6a",
-      "name": "NCS crot"
+      "name": "rizky"
     },
     {
       "id": "ABCDEF123456",
